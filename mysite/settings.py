@@ -25,7 +25,7 @@ SECRET_KEY = 'ehs%eb68zqgwpcy&iddm&h)x$hur9u211*z-elp+7(to&^1ma!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'fortifelx.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','fortifelx.pythonanywhere.com']
 
 
 # Application definition
